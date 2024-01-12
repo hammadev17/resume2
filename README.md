@@ -4,6 +4,7 @@
 
 ## Work Experience
 **Senior Mobile Apps Developer - Assistant Vice President [@ OCBC Sdn. Bhd.](https://www.linkedin.com/company/ocbc-bank/mycompany/) (_Feb 2023 - Present_)**
+
     - Developing Consumer Finanicing application
     - e-KYC Apis
 
