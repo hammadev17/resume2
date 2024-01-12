@@ -1,11 +1,11 @@
 # Senior Mobile Apps Developer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Expertise
+### Native
+#### iOS: Swift, SwiftUI, RxSwift
+#### Android: Kotlin, XML
+### Cross-Platforms
+#### Flutter
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
