@@ -3,10 +3,9 @@
 #### Expertise: iOS, Android, Flutter, React+Cordova
 
 ## Work Experience
-**Snr. Mobile Apps Developer - AVP [@ OCBC Sdn. Bhd.](https://www.linkedin.com/company/ocbc-bank/mycompany/) (_Feb 2023 - Present_)**
-
-    - Developing Consumer Finanicing application
-    - e-KYC Apis
+**Snr. Mobile Apps Developer - AVP [@ OCBC Sdn. Bhd.](https://www.linkedin.com/company/ocbc-bank/mycompany/)     (_Feb 2023 - Present_)**
+- Developing Consumer Finanicing application
+- e-KYC Apis
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
