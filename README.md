@@ -6,7 +6,7 @@
 ## Work Experience
 **Snr. Software Engineer (Mobile) - AVP | _(Feb 2023 - Present)_**
 
-**[OCBC Bank - e2Power) KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)**
+**[OCBC Bank - e2Power - KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)**
 
 - Development of Consumer Finanicing Solution
 - main task is to convert old app (React+cordova) into new app (Swift, SwiftUI)
