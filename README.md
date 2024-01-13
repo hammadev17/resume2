@@ -5,7 +5,7 @@
 
 ## Work Experience
 **Snr. Software Engineer (Mobile) - AVP [@ OCBC Bank MY (e2Power)](https://www.linkedin.com/company/ocbc-bank/mycompany)**
-#### (_Feb 2023 - Present_)
+**(_Feb 2023 - Present_)**
 - Development of Consumer Finanicing Solution
 - main task is to convert old app (React+cordova) into new app (Swift, SwiftUI)
 - 3 projects for single app: iOS, React and Cordova Native iOS to transform old code into new code using microservices
