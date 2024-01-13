@@ -4,7 +4,7 @@
 #### Patterns: MVC | MVVM | VIPER
 
 ## Work Experience
-**Snr. Software Engineer (Mobile) - AVP [@ OCBC MY (e2Power)](https://www.linkedin.com/company/ocbc-bank/mycompany)
+**Snr. Mobile Apps Developer - AVP [@ OCBC MY (e2Power)](https://www.linkedin.com/company/ocbc-bank/mycompany)
 (_Feb 2023 - Present_)**
 - Development of Consumer Finanicing Solution
 - main task is to convert old app (React+cordova) into new app (Swift, SwiftUI)
