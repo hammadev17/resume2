@@ -4,25 +4,32 @@
 #### Patterns: MVC | MVVM | VIPER
 
 ## Work Experience
-**Snr. Mobile Apps Developer - AVP [@ OCBC Bank Sdn Bhd (e2Power) MY](https://www.linkedin.com/company/ocbc-bank/mycompany/)     (_Feb 2023 - Present_)**
-- Developing Consumer Finanicing application
-- Our main task here is to convert old app into new app
-- Worked on 3 platforms including Native iOS, React Hybrid and Cordova Native for transforming Web to Native iOS and launching new modules from Hybrid to New Native iOS Code
-- Worked on Swift, SwiftUI and RxSwift to bring Figma designs to Life into app form.
-- documentation and development of e-KYC, 1FA, 2FA, Biometeric Login (Face & Touch) worked on Fund Transfers, Payments, e-Statements, Push Notifications (Firebase Messaging), Invevstment and Card Management Services
-- have used MVVM design pattern to make the architecture of this app
+**Snr. Software Engineer (Mobile) - AVP [@ OCBC Bank Sdn Bhd (e2Power) MY](https://www.linkedin.com/company/ocbc-bank/mycompany)     (_Feb 2023 - Present_)**
+- Development of Consumer Finanicing Solution
+- main task is to convert old app (React+cordova) into new app (Swift, SwiftUI)
+- 3 projects for single app: iOS, React and Cordova Native iOS to transform old code into new code using microservices
+- Microservices architecture and MVVM design pattern using Swift 5.0, SwiftUI and RxSwift
+- Design Language System to design Screens for app
+- documentation and development of eKYC Digital Onboarding, 1FA & 2FA Login, Biometeric (Face & Touch) Login, OneToken, Funds Transfer, Bill Payments, e-Statements, Push Notifications (Firebase), Invevstment and Card Management Services
 - Providing efficient and better solutions to make UI and code better
 - Confluence: making documentations for modules and flow diagrams for Screens and apis
 - JIRA: tickets for sprint based deliverables and for UAT and regression builds
 - SonarQube: used to deliver quality code with 80% threshold for TDD based code
 - Jenkins: using pipelines to deliver the builds to UAT and Regression
-- SCRUM: using it on daily exercise to work in agile way
+- SCRUM Framwork: For Daily Scrum, Sprint Planning, Sprint Review and Retrospective for each 2 week sprint to delivery in AGILE way
 - MS Teams and Outlook: To arrange meetings and daily communications, email management
-- Have contributed with Backend Team in fixing minor bugs in the APIs based on Java Springboot.
+- Have contributed with Backend Team in fixing minor bugs in the MS based APIs written on Java (Springboot)
+- Short Courses for Cyber Security, SCRUM (PSM-I certified) and Banking related mandatory courses (renewal on each 6 months)
+- Self Responsible for each of the module, find PO and concluding the UI with CX team, deciding timeline until release
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Snr. & Lead Software Engineer (iOS) [@ Aion Digital Bahrain (Remotely)](https://aiondigital.com) (_February 2022 - December 2023_)**
+- Corporate Banking Application B2B for Kuwait Finance House (KFH)
+- Managed small iOS Team to delivery work and code review, deciding coding rules
+- Combination of MVC and MVVM patterns as the code was old and needed transformation
+- code based UI using Autolayouts to remove storyboard hazard and loading time
+- Microservices Apis integration, eKYC Onboarding, Bulk Salary Transfering
+- JIRA for sprints based tasks management
+- SCRUM framework for daily basis work delivery
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
