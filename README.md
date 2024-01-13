@@ -1,7 +1,7 @@
 # Senior Mobile Apps Developer
 
 #### Expertise: iOS, Android, Flutter, React+Cordova
-#### Design Patterns: MVC, MVVM, VIPER
+#### Design Patterns: | MVC | MVVM | VIPER
 
 ## Work Experience
 **Snr. Mobile Apps Developer - AVP [@ OCBC Bank Sdn Bhd (e2Power) MY](https://www.linkedin.com/company/ocbc-bank/mycompany/)     (_Feb 2023 - Present_)**
