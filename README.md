@@ -1,11 +1,24 @@
 # Senior Mobile Apps Developer
 
 #### Expertise: iOS, Android, Flutter, React+Cordova
+#### Design Patterns: MVC, MVVM, VIPER
 
 ## Work Experience
-**Snr. Mobile Apps Developer - AVP [@ OCBC Sdn. Bhd.](https://www.linkedin.com/company/ocbc-bank/mycompany/)     (_Feb 2023 - Present_)**
+**Snr. Mobile Apps Developer - AVP [@ OCBC Bank Sdn Bhd (e2Power) MY](https://www.linkedin.com/company/ocbc-bank/mycompany/)     (_Feb 2023 - Present_)**
 - Developing Consumer Finanicing application
-- e-KYC Apis
+- Our main task here is to convert old app into new app
+- Worked on 3 platforms including Native iOS, React Hybrid and Cordova Native for transforming Web to Native iOS and launching new modules from Hybrid to New Native iOS Code
+- Worked on Swift, SwiftUI and RxSwift to bring Figma designs to Life into app form.
+- documentation and development of e-KYC, 1FA, 2FA, Biometeric Login (Face & Touch) worked on Fund Transfers, Payments, e-Statements, Push Notifications (Firebase Messaging), Invevstment and Card Management Services
+- have used MVVM design pattern to make the architecture of this app
+- Providing efficient and better solutions to make UI and code better
+- Confluence: making documentations for modules and flow diagrams for Screens and apis
+- JIRA: tickets for sprint based deliverables and for UAT and regression builds
+- SonarQube: used to deliver quality code with 80% threshold for TDD based code
+- Jenkins: using pipelines to deliver the builds to UAT and Regression
+- SCRUM: using it on daily exercise to work in agile way
+- MS Teams and Outlook: To arrange meetings and daily communications, email management
+- Have contributed with Backend Team in fixing minor bugs in the APIs based on Java Springboot.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
