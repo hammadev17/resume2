@@ -4,8 +4,8 @@
 #### Patterns: MVC | MVVM | VIPER
 
 ## Work Experience
-**Snr. Mobile Apps Developer - AVP | (_Feb 2023 - Present_)
-[@ OCBC Bank Sdn Bhd - e2Power) KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)**
+**Snr. Mobile Apps Developer - AVP | (_Feb 2023 - Present_)**
+_[@ OCBC Bank Sdn Bhd - e2Power) KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)_
 - Development of Consumer Finanicing Solution
 - main task is to convert old app (React+cordova) into new app (Swift, SwiftUI)
 - 3 projects for single app: iOS, React and Cordova Native iOS to transform old code into new code using microservices
