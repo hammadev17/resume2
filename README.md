@@ -7,12 +7,9 @@
 **Snr. Software Engineer (Mobile) - AVP | [OCBC Bank | KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)              
 _(Feb 2023 - Present)_**
 
+- On-Site Job in Kuala Lumpur Regional Office
 - Development of Consumer Finanicing Solution
-- main task is to convert old app (React+cordova) into new app (Swift, SwiftUI)
-- 3 projects for single app: iOS, React and Cordova Native iOS to transform old code into new code using microservices
-- Microservices architecture and MVVM design pattern using Swift 5.0, SwiftUI and RxSwift
-- Design Language System to design Screens for app
-- documentation and development of eKYC Digital Onboarding, 1FA & 2FA Login, Biometeric (Face & Touch) Login, OneToken, Funds Transfer, Bill Payments, e-Statements, Push Notifications (Firebase), Invevstment and Card Management Services
+- Converting old app (React+cordova) into new app (Swift, SwiftUI)
 - Providing efficient and better solutions to make UI and code better
 - Confluence: making documentations for modules and flow diagrams for Screens and apis
 - JIRA: tickets for sprint based deliverables and for UAT and regression builds
@@ -24,7 +21,8 @@ _(Feb 2023 - Present)_**
 - Short Courses for Cyber Security, SCRUM (PSM-I certified) and Banking related mandatory courses (renewal on each 6 months)
 - Self Responsible for each of the module, find PO and concluding the UI with CX team, deciding timeline until release
 
-**Snr. & Lead Software Engineer (iOS) [@ Aion Digital | Bahrain (Remotely)](https://aiondigital.com) (_February 2022 - December 2023_)**
+**Snr. & Lead Software Engineer (iOS) [@ Aion Digital | Bahrain](https://aiondigital.com) (_February 2022 - December 2023_)**
+- **Worked Remotely from Multan, Pakistan**
 - Corporate Banking Application B2B for Kuwait Finance House (KFH)
 - Managed small iOS Team to delivery work and code review, deciding coding rules
 - Combination of MVC and MVVM patterns as the code was old and needed transformation
@@ -33,14 +31,16 @@ _(Feb 2023 - Present)_**
 - JIRA for sprints based tasks management
 - SCRUM framework for daily basis work delivery
 
-**Software Technical Lead [@Freelancer | Remotely] (_July 2021 – Feb 2022_)**
+**Software Technical Lead @Freelancing (_July 2021 – Feb 2022_)**
+- **Worked Remotely from Multan, Pakistan**
 - Guiding and Supervising personal team to developed multiple projects of eCommerce and Logistics analytics
 - Providing maintenance services for the projects completed
 - Managing cross platform teams of Web, Mobile for designing and development
 - Providing solutions of complex requirements for the teams members
 - End to end discussion and delivery to clients of projects
 
-**Senior Software Engineer [@Smart Laundry IT | Dammam, KSA (Remotely)](https://sites.google.com/voltager.net/laundryeenapp/home) (_January 2020 – July 2021_)***
+**Senior Software Engineer [@Smart Laundry IT | Dammam, KSA](https://sites.google.com/voltager.net/laundryeenapp/home) (_January 2020 – July 2021_)***
+- **Worked Remotely from Multan, Pakistan**
 - Responsibility of delivering Mobile applications (iOS & Android)
 - Guiding designer to get the applications design based on customer's requirements
 - Guiding and engaging with web developers to develop a web app
@@ -49,14 +49,34 @@ _(Feb 2023 - Present)_**
 - bugs fixing and changes planned by company on timely basis based o customer's suggestions
 
 **Senior Software Engineer (iOS) [@Tossdown Pvt Ltd | Lahore, PK](https://tossdown.pk) (_May 2018 – December 2019_)**
+- Worked on B2B and B2C apps for restaurant and bakery industry
+- B2B apps for managers to track employee's and wholesale dealer's daily activities, check-in, check-out and complete route covering to supply or taking orders at retail shops
+- B2C apps were restaurant apps providing customers a place to order their meals and deals directly to the restaurants.
+
+**iOS Developer [@FrizzHub Pvt Ltd | Lahore, PK] (_December 2015 – October 2017_)**
+- Worked on various taxi applications
+- Worked on an On-Demand application for patients to get medical services in nearby clinics and hospitals named APPROXIE
+- Worked on RAVEN that is chat application within groups of people and 1-1 chat with wallet
+- Some further on-demand apps includes like ONE MINUTE for e-commerce and HomeStylist for getting salons services at home
+
+**iOS Developer [@NineSol | Islamabad, PK](https://www.ninesol.com) (_October 2014 – November 2015_)**
+- Started internship leading permanent job as Junior Developer in a team 6 other developers
+- Worked on mobile applications using Objective C and Swift 1.0 languages and iOS technology.
+- Comprehensive knowledge and hands on experience in creating and consuming Web Services in application
+- Worked on some basic Islamic apps, audios of different Reciters, manipulation of text and audios
+- Designed and implemented a local database that supported text, pictures, audio streams
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+Professionally Finished all projects within the time frame
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### OCBC Malaysia
+-Converting old app (React+cordova) into new app (Swift, SwiftUI)
+- 3 projects for single app: iOS, React and Cordova Native iOS to transform old code into new code using microservices
+- Microservices architecture and MVVM design pattern using Swift 5.0, SwiftUI and RxSwift
+- Design Language System to design Screens for app
+- documentation and development of eKYC Digital Onboarding, 1FA & 2FA Login, Biometeric (Face & Touch) Login, OneToken, Funds Transfer, Bill Payments, e-Statements, Push Notifications (Firebase), Invevstment and Card Management Services
+- Providing efficient and better solutions to make UI and code better
+[iOS App Link](https://apps.apple.com/sg/app/ocbc-malaysia/id809472323)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
