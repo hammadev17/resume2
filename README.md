@@ -1,5 +1,5 @@
 # Senior Mobile Apps Developer
-Strong analytical skills developed through programming projects. Excellent time-management and multitasking skills. Able to communicate and contribute in a team environment. Fast learner with quick adaptation to new programming languages, technologies and working environment. Very motivational towards iOS development.
+Exploring different technologies and solving user problems using those technological equipments and languages is my hobby. Fast learner with quick adaptation to new programming languages, technologies and working environment. Very motivational towards hand held devices.
 
 ## Work Experience
 **Snr. Software Engineer (Mobile) - AVP [@OCBC Bank | KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)
