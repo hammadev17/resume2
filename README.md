@@ -33,6 +33,23 @@ _(Feb 2023 - Present)_**
 - JIRA for sprints based tasks management
 - SCRUM framework for daily basis work delivery
 
+**Software Technical Lead | Freelancer - Remotely (_July 2021 – Feb 2022_)**
+- Guiding and Supervising personal team to developed multiple projects of eCommerce and Logistics analytics
+- Providing maintenance services for the projects completed
+- Managing cross platform teams of Web, Mobile for designing and development
+- Providing solutions of complex requirements for the teams members
+- End to end discussion and delivery to clients of projects
+
+**Senior Software Engineer (Mobile Native) [@Smart Laundry IT | Dammam, KSA (Remotely)](https://sites.google.com/voltager.net/laundryeenapp/home) (_January 2020 – July 2021_)***
+- Responsibility of delivering Mobile applications (iOS & Android)
+- Guiding designer to get the applications design based on customer's requirements
+- Guiding and engaging with web developers to develop a web app
+- Creating and managing Firebase database
+- Writing push notifications code in Firebase Functions written in Typescript
+- bugs fixing and changes planned by company on timely basis based o customer's suggestions
+
+**Senior Software Engineer (iOS) [@Tossdown Pvt Ltd | Lahore, PK](https://tossdown.pk) (_May/2018 – December 2019_)**
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
