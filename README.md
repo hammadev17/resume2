@@ -79,14 +79,13 @@ _(October 2014 – November 2015)_**
 ## Projects
 Professionally Finished all projects within the time frame
 
-### OCBC Malaysia
--Converting old app (React+cordova) into new app (Swift, SwiftUI)
+### OCBC Malaysia    ([iOS](https://apps.apple.com/sg/app/ocbc-malaysia/id809472323))
+- Converting old app (React+cordova) into new app (Swift, SwiftUI)
 - 3 projects for single app: iOS, React and Cordova Native iOS to transform old code into new code using microservices
 - Microservices architecture and MVVM design pattern using Swift 5.0, SwiftUI and RxSwift
 - Design Language System to design Screens for app
 - documentation and development of eKYC Digital Onboarding, 1FA & 2FA Login, Biometeric (Face & Touch) Login, OneToken, Funds Transfer, Bill Payments, e-Statements, Push Notifications (Firebase), Invevstment and Card Management Services
 - Providing efficient and better solutions to make UI and code better
-[iOS App Link](https://apps.apple.com/sg/app/ocbc-malaysia/id809472323)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
