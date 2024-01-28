@@ -86,7 +86,8 @@ Professionally Finished all projects within the time frame
 - Design Language System to design Screens for app
 - documentation and development of eKYC Digital Onboarding, 1FA & 2FA Login, Biometeric (Face & Touch) Login, OneToken, Funds Transfer, Bill Payments, e-Statements, Push Notifications (Firebase), Invevstment and Card Management Services
 - Providing efficient and better solutions to make UI and code better
+- Localization, UIKit, SwiftUI, Alamofire, Firebase
 
 
-**Expertise: iOS, Android, Flutter, React + Cordova**
-**Patterns: MVC, MVVM, VIPER**
+#### Expertise: iOS, Android, Flutter, React + Cordova
+#### Patterns: MVC, MVVM, VIPER
