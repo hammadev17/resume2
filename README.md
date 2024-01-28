@@ -4,7 +4,7 @@
 #### Patterns: MVC | MVVM | VIPER
 
 ## Work Experience
-**Snr. Software Engineer (Mobile) - AVP | [OCBC Bank - KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)              
+**Snr. Software Engineer (Mobile) - AVP | [OCBC Bank | KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)              
 _(Feb 2023 - Present)_**
 
 - Development of Consumer Finanicing Solution
@@ -24,7 +24,7 @@ _(Feb 2023 - Present)_**
 - Short Courses for Cyber Security, SCRUM (PSM-I certified) and Banking related mandatory courses (renewal on each 6 months)
 - Self Responsible for each of the module, find PO and concluding the UI with CX team, deciding timeline until release
 
-**Snr. & Lead Software Engineer (iOS) [@ Aion Digital Bahrain (Remotely)](https://aiondigital.com) (_February 2022 - December 2023_)**
+**Snr. & Lead Software Engineer (iOS) [@ Aion Digital | Bahrain (Remotely)](https://aiondigital.com) (_February 2022 - December 2023_)**
 - Corporate Banking Application B2B for Kuwait Finance House (KFH)
 - Managed small iOS Team to delivery work and code review, deciding coding rules
 - Combination of MVC and MVVM patterns as the code was old and needed transformation
@@ -33,14 +33,14 @@ _(Feb 2023 - Present)_**
 - JIRA for sprints based tasks management
 - SCRUM framework for daily basis work delivery
 
-**Software Technical Lead | Freelancer - Remotely (_July 2021 – Feb 2022_)**
+**Software Technical Lead [@Freelancer | Remotely] (_July 2021 – Feb 2022_)**
 - Guiding and Supervising personal team to developed multiple projects of eCommerce and Logistics analytics
 - Providing maintenance services for the projects completed
 - Managing cross platform teams of Web, Mobile for designing and development
 - Providing solutions of complex requirements for the teams members
 - End to end discussion and delivery to clients of projects
 
-**Senior Software Engineer (Mobile Native) [@Smart Laundry IT | Dammam, KSA (Remotely)](https://sites.google.com/voltager.net/laundryeenapp/home) (_January 2020 – July 2021_)***
+**Senior Software Engineer [@Smart Laundry IT | Dammam, KSA (Remotely)](https://sites.google.com/voltager.net/laundryeenapp/home) (_January 2020 – July 2021_)***
 - Responsibility of delivering Mobile applications (iOS & Android)
 - Guiding designer to get the applications design based on customer's requirements
 - Guiding and engaging with web developers to develop a web app
@@ -48,7 +48,7 @@ _(Feb 2023 - Present)_**
 - Writing push notifications code in Firebase Functions written in Typescript
 - bugs fixing and changes planned by company on timely basis based o customer's suggestions
 
-**Senior Software Engineer (iOS) [@Tossdown Pvt Ltd | Lahore, PK](https://tossdown.pk) (_May/2018 – December 2019_)**
+**Senior Software Engineer (iOS) [@Tossdown Pvt Ltd | Lahore, PK](https://tossdown.pk) (_May 2018 – December 2019_)**
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
