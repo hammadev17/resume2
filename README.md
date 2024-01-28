@@ -1,5 +1,5 @@
 # Senior Mobile Apps Developer
-####Strong analytical skills developed through programming projects. Excellent time-management and multitasking skills. Able to communicate and contribute in a team environment
+#### Strong analytical skills developed through programming projects. Excellent time-management and multitasking skills. Able to communicate and contribute in a team environment
 Fast learner with quick adaptation to new programming languages, technologies and working environment. Very motivational towards iOS development.
 
 ## Work Experience
