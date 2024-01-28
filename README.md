@@ -39,7 +39,7 @@ _(Feb 2023 - Present)_**
 - Providing solutions of complex requirements for the teams members
 - End to end discussion and delivery to clients of projects
 
-**Senior Software Engineer [@Smart Laundry IT | Dammam, KSA](https://sites.google.com/voltager.net/laundryeenapp/home) (_January 2020 – July 2021_)***
+**Snr. Software Engineer [@Smart Laundry IT | Dammam, KSA](https://sites.google.com/voltager.net/laundryeenapp/home) (_January 2020 – July 2021_)***
 - **Worked Remotely from Multan, Pakistan**
 - Responsibility of delivering Mobile applications (iOS & Android)
 - Guiding designer to get the applications design based on customer's requirements
