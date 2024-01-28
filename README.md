@@ -56,7 +56,7 @@
 - B2B apps for managers to track employee's and wholesale dealer's daily activities, check-in, check-out and complete route covering to supply or taking orders at retail shops
 - B2C apps were restaurant apps providing customers a place to order their meals and deals directly to the restaurants.
 
-**iOS Developer [@FrizzHub Pvt Ltd | Lahore, PK]                                                                                   _(December 2015 – October 2017)_**
+**iOS Developer @FrizzHub Pvt Ltd | Lahore, PK                                                                                     _(December 2015 – October 2017)_**
 
 - Worked on various taxi applications
 - Worked on an On-Demand application for patients to get medical services in nearby clinics and hospitals named APPROXIE
