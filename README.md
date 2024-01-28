@@ -4,7 +4,8 @@
 #### Patterns: MVC | MVVM | VIPER
 
 ## Work Experience
-**Snr. Software Engineer (Mobile) - AVP | [OCBC Bank | KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)        _(February 2023 - Present)_**
+**Snr. Software Engineer (Mobile) - AVP | [OCBC Bank | KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)
+_(February 2023 - Present)_**
 
 - On-Site Job in Kuala Lumpur Regional Office
 - Development of Consumer Finanicing Solution
@@ -20,7 +21,8 @@
 - Short Courses for Cyber Security, SCRUM (PSM-I certified) and Banking related mandatory courses (renewal on each 6 months)
 - Self Responsible for each of the module, find PO and concluding the UI with CX team, deciding timeline until release
 
-**Lead Software Engineer (iOS) [@ Aion Digital | Bahrain](https://aiondigital.com)                                                _(February 2022 - December 2023)_**
+**Lead Software Engineer (iOS) [@ Aion Digital | Bahrain](https://aiondigital.com)
+_(February 2022 - December 2023)_**
 
 - **Worked Remotely from Multan, Pakistan**
 - Corporate Banking Application B2B for Kuwait Finance House (KFH)
@@ -31,7 +33,8 @@
 - JIRA for sprints based tasks management
 - SCRUM framework for daily basis work delivery
 
-**Software Technical Lead @Freelancing                                                                                                _(July 2021 – February 2022)_**
+**Software Technical Lead @Freelancing
+_(July 2021 – February 2022)_**
 
 - **Worked Remotely from Multan, Pakistan**
 - Guiding and Supervising personal team to developed multiple projects of eCommerce and Logistics analytics
@@ -40,7 +43,8 @@
 - Providing solutions of complex requirements for the teams members
 - End to end discussion and delivery to clients of projects
 
-**Snr. Software Engineer [@Smart Laundry IT | Dammam, KSA](https://sites.google.com/voltager.net/laundryeenapp/home)                _(January 2020 – July 2021)_**
+**Snr. Software Engineer [@Smart Laundry IT | Dammam, KSA](https://sites.google.com/voltager.net/laundryeenapp/home)
+_(January 2020 – July 2021)_**
 
 - **Worked Remotely from Multan, Pakistan**
 - Responsibility of delivering Mobile applications (iOS & Android)
@@ -50,20 +54,23 @@
 - Writing push notifications code in Firebase Functions written in Typescript
 - bugs fixing and changes planned by company on timely basis based o customer's suggestions
 
-**Senior Software Engineer (iOS) [@Tossdown Pvt Ltd | Lahore, PK](https://tossdown.pk)                                                  _(May 2018 – December 2019)_**
+**Senior Software Engineer (iOS) [@Tossdown Pvt Ltd | Lahore, PK](https://tossdown.pk)
+_(May 2018 – December 2019)_**
 
 - Worked on B2B and B2C apps for restaurant and bakery industry
 - B2B apps for managers to track employee's and wholesale dealer's daily activities, check-in, check-out and complete route covering to supply or taking orders at retail shops
 - B2C apps were restaurant apps providing customers a place to order their meals and deals directly to the restaurants.
 
-**iOS Developer @FrizzHub Pvt Ltd | Lahore, PK                                                                                     _(December 2015 – October 2017)_**
+**iOS Developer @FrizzHub Pvt Ltd | Lahore, PK
+_(December 2015 – October 2017)_**
 
 - Worked on various taxi applications
 - Worked on an On-Demand application for patients to get medical services in nearby clinics and hospitals named APPROXIE
 - Worked on RAVEN that is chat application within groups of people and 1-1 chat with wallet
 - Some further on-demand apps includes like ONE MINUTE for e-commerce and HomeStylist for getting salons services at home
 
-**iOS Developer [@NineSol | Islamabad, PK](https://www.ninesol.com)                                                                _(October 2014 – November 2015)_**
+**iOS Developer [@NineSol | Islamabad, PK](https://www.ninesol.com)
+_(October 2014 – November 2015)_**
 
 - Started internship leading permanent job as Junior Developer in a team 6 other developers
 - Worked on mobile applications using Objective C and Swift 1.0 languages and iOS technology.
