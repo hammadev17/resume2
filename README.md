@@ -21,7 +21,7 @@ _(Feb 2023 - Present)_**
 - Short Courses for Cyber Security, SCRUM (PSM-I certified) and Banking related mandatory courses (renewal on each 6 months)
 - Self Responsible for each of the module, find PO and concluding the UI with CX team, deciding timeline until release
 
-**Snr. & Lead Software Engineer (iOS) [@ Aion Digital | Bahrain](https://aiondigital.com) (_February 2022 - December 2023_)**
+**Lead Software Engineer (iOS) [@ Aion Digital | Bahrain](https://aiondigital.com) (_February 2022 - December 2023_)**
 - **Worked Remotely from Multan, Pakistan**
 - Corporate Banking Application B2B for Kuwait Finance House (KFH)
 - Managed small iOS Team to delivery work and code review, deciding coding rules
