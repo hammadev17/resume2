@@ -33,7 +33,8 @@ _(February 2022 - December 2023)_**
 - JIRA for sprints based tasks management
 - SCRUM framework for daily basis work delivery
 
-**Software Technical Lead @Freelancing                                                                                                _(July 2021 – February 2022)_**
+**Software Technical Lead @Freelancing                                                                                                
+     _(July 2021 – February 2022)_**
 
 - **Worked Remotely from Multan, Pakistan**
 - Guiding and Supervising personal team to developed multiple projects of eCommerce and Logistics analytics
