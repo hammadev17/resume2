@@ -4,7 +4,7 @@
 #### Patterns: MVC | MVVM | VIPER
 
 ## Work Experience
-**Snr. Software Engineer (Mobile) - AVP | [OCBC Bank | KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)
+**Snr. Software Engineer (Mobile) - AVP [@OCBC Bank | KL, Malaysia](https://www.linkedin.com/company/ocbc-bank/mycompany)
 _(February 2023 - Present)_**
 
 - On-Site Job in Kuala Lumpur Regional Office
@@ -21,7 +21,7 @@ _(February 2023 - Present)_**
 - Short Courses for Cyber Security, SCRUM (PSM-I certified) and Banking related mandatory courses (renewal on each 6 months)
 - Self Responsible for each of the module, find PO and concluding the UI with CX team, deciding timeline until release
 
-**Lead Software Engineer (iOS) [@ Aion Digital | Bahrain](https://aiondigital.com)                                                
+**Lead Software Engineer (iOS) [@Aion Digital | Bahrain](https://aiondigital.com)                                                
 _(February 2022 - December 2023)_**
 
 - **Worked Remotely from Multan, Pakistan**
@@ -33,8 +33,7 @@ _(February 2022 - December 2023)_**
 - JIRA for sprints based tasks management
 - SCRUM framework for daily basis work delivery
 
-**Software Technical Lead @Freelancing
-_(July 2021 – February 2022)_**
+**Software Technical Lead @Freelancing                                                                                                _(July 2021 – February 2022)_**
 
 - **Worked Remotely from Multan, Pakistan**
 - Guiding and Supervising personal team to developed multiple projects of eCommerce and Logistics analytics
