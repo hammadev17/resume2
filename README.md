@@ -88,5 +88,5 @@ Professionally Finished all projects within the time frame
 - Providing efficient and better solutions to make UI and code better
 
 
-**Expertise:** iOS | Android | Flutter | React + Cordova
-**Patterns:** MVC | MVVM | VIPER
+**Expertise: iOS, Android, Flutter, React + Cordova**
+**Patterns: MVC, MVVM, VIPER**
