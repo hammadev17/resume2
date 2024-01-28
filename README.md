@@ -54,23 +54,23 @@ _(February 2022 - December 2023)_**
 - Writing push notifications code in Firebase Functions written in Typescript
 - bugs fixing and changes planned by company on timely basis based o customer's suggestions
 
-**Senior Software Engineer (iOS) [@Tossdown Pvt Ltd | Lahore, PK](https://tossdown.pk)
-_(May 2018 – December 2019)_**
+**Senior Software Engineer (iOS) [@Tossdown Pvt Ltd | Lahore, PK](https://tossdown.pk)                                                 
+     _(May 2018 – December 2019)_**
 
 - Worked on B2B and B2C apps for restaurant and bakery industry
 - B2B apps for managers to track employee's and wholesale dealer's daily activities, check-in, check-out and complete route covering to supply or taking orders at retail shops
 - B2C apps were restaurant apps providing customers a place to order their meals and deals directly to the restaurants.
 
-**iOS Developer @FrizzHub Pvt Ltd | Lahore, PK
-_(December 2015 – October 2017)_**
+**iOS Developer @FrizzHub Pvt Ltd | Lahore, PK                                                                                    
+    _(December 2015 – October 2017)_**
 
 - Worked on various taxi applications
 - Worked on an On-Demand application for patients to get medical services in nearby clinics and hospitals named APPROXIE
 - Worked on RAVEN that is chat application within groups of people and 1-1 chat with wallet
 - Some further on-demand apps includes like ONE MINUTE for e-commerce and HomeStylist for getting salons services at home
 
-**iOS Developer [@NineSol | Islamabad, PK](https://www.ninesol.com)
-_(October 2014 – November 2015)_**
+**iOS Developer [@NineSol | Islamabad, PK](https://www.ninesol.com)                                                                
+    _(October 2014 – November 2015)_**
 
 - Started internship leading permanent job as Junior Developer in a team 6 other developers
 - Worked on mobile applications using Objective C and Swift 1.0 languages and iOS technology.
