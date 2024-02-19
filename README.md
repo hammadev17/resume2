@@ -98,18 +98,6 @@ Professionally Finished all projects within the time frame
 - Shifting the whole app from Storyboards to code using Constraints without any 3rd party library e.g, Snapkit
 - Release build for users using Test Flight
 
-### Laundryeen ([iOS](https://apps.apple.com/sa/app/laundryeen/id1507827119) & [Android](https://play.google.com/store/apps/details?id=com.laundryeen.customer))
-- on-demand laundry services providing system on mobile
-- managed the complete project for this company
-- customer app on iOS and Android tageted phones
-- laundry shop app on Android targeted tablet
-- helped in Website using wordpress template
-- Firebase functions to generate app notifications using Firebase Messaging service
-- Firebase Storage to manage database for app users
-- Firebase library apis for android and ios apps
-- Uploading apps on iOS and Android Stores
-- Providing efficient and better solutions to make UI and better code
-- Localization(en, ar), UIKit, Alamofire, Firebase, Google Maps
 
 ### Freshhouse ([Web](https://freshhouse.com.sa))
 - Worked as Project Manager to provide Dashboard + APIs
@@ -133,6 +121,19 @@ Professionally Finished all projects within the time frame
 - Driver app linked with the backend of Shllrest which receives the order of user through notifications
 - Driver app has live tracking and Driver wallet
 - Complete project is developed and maintained under my supervision and technical expertese
+
+### Laundryeen ([iOS](https://apps.apple.com/sa/app/laundryeen/id1507827119) & [Android](https://play.google.com/store/apps/details?id=com.laundryeen.customer))
+- on-demand laundry services providing system on mobile
+- managed the complete project for this company
+- customer app on iOS and Android tageted phones
+- laundry shop app on Android targeted tablet
+- helped in Website using wordpress template
+- Firebase functions to generate app notifications using Firebase Messaging service
+- Firebase Storage to manage database for app users
+- Firebase library apis for android and ios apps
+- Uploading apps on iOS and Android Stores
+- Providing efficient and better solutions to make UI and better code
+- Localization(en, ar), UIKit, Alamofire, Firebase, Google Maps
 
 
 ### Simply Sufi XPRS ([iOS](https://apps.apple.com/us/app/simply-sufi-xprs/id1477055441))
