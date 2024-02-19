@@ -176,12 +176,12 @@ Professionally Finished all projects within the time frame
 
 
 ## Expertese/Skills
-**Tools:** XCode, Android Studio, Visual Code
-**Languages:** Objective-C, Swift, SwiftUI, Kotlin, React+Cordova
-**Patterns:** MVC, MVVM, VIPER
-**Frameworks:** Cocoa & CocoaTouch, Core Data, Contacts, Core Location, Google Maps for IOS, BLE, External Accessory, Facebook SDK, Stripe SDK, Firebase (Storage, Messaging, Functions)
-**Networking:** RESTful, JSON, URLSession, Sockets.IO, AFNetworking, Alamofire
-**Other Languages:** C#, Java, PHP, HTML, XML
-**Operating Systems:** iOS, Android, Mac OS, Windows OS
+**Tools:** XCode, Android Studio, Visual Code                                                                                 
+            **Languages:** Objective-C, Swift, SwiftUI, Kotlin, React+Cordova                                                  
+                 **Patterns:** MVC, MVVM, VIPER                                                                              
+                   **Frameworks:** Cocoa & CocoaTouch, Core Data, Contacts, Core Location, Google Maps for IOS, BLE, External Accessory, Facebook SDK, Stripe SDK, Firebase (Storage, Messaging, Functions)                                                           
+                     **Networking:** RESTful, JSON, URLSession, Sockets.IO, AFNetworking, Alamofire                                  
+                       **Other Languages:** C#, Java, PHP, HTML, XML                                                             
+                        **Operating Systems:** iOS, Android, Mac OS, Windows OS
 
 
