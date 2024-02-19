@@ -166,8 +166,8 @@ Professionally Finished all projects within the time frame
 
 
 ## Education
-#### Quaid-i-Azam University, Islamabad
-**M.Sc. Computer Science**                                                                                                       
+**M.Sc. Computer Science**                                                                                                           
+       **Quaid-i-Azam University, Islamabad**                                                                                               
              **_Sep/2011 - Oct/2014_**
 
 
