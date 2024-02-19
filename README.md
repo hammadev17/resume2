@@ -164,7 +164,8 @@ Professionally Finished all projects within the time frame
 
 **_Have worked on several other app like On-Demand Taxi Service, On-Demand Doctor Appointment Service and some small children's education related app. I have experience to work on variety of apps._**
 
-
+##
+##
 ## Education
 **M.Sc. Computer Science**                                                                                                           
        **Quaid-i-Azam University, Islamabad**                                                                                               
