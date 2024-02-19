@@ -79,7 +79,8 @@ _(February 2022 - December 2023)_**
 ## Projects
 Professionally Finished all projects within the time frame
 
-### OCBC Malaysia    ([iOS](https://apps.apple.com/sg/app/ocbc-malaysia/id809472323))
+### OCBC Malaysia (iOS & Android, React-Cordova)
+- Customer Financing System for OCBC Malaysia
 - Converting old app (React+cordova) into new app (Swift, SwiftUI)
 - 3 projects for single app: iOS, React and Cordova Native iOS to transform old code into new code using microservices
 - Microservices architecture and MVVM design pattern using Swift 5.0, SwiftUI and RxSwift
@@ -87,7 +88,14 @@ Professionally Finished all projects within the time frame
 - documentation and development of eKYC Digital Onboarding, 1FA & 2FA Login, Biometeric (Face & Touch) Login, OneToken, Funds Transfer, Bill Payments, e-Statements, Push Notifications (Firebase), Invevstment and Card Management Services
 - Providing efficient and better solutions to make UI and code better
 - Localization, UIKit, SwiftUI, Alamofire, Firebase
+[iOS Store:](https://apps.apple.com/sg/app/ocbc-malaysia/id809472323)
 
+### Laundryeen (iOS & Android)
+- on-demand laundry services providing system on mobile
+- Providing efficient and better solutions to make UI and code better
+- Localization, UIKit, SwiftUI, Alamofire, Firebase
+[iOS Store:](https://apps.apple.com/sa/app/laundryeen/id1507827119)
+[Play Store:](https://play.google.com/store/apps/details?id=com.laundryeen.customer&hl=en&gl=US)
 
 #### Expertise: iOS, Android, Flutter, React + Cordova
 #### Patterns: MVC, MVVM, VIPER
