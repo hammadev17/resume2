@@ -169,8 +169,8 @@ Professionally Finished all projects within the time frame
 
 
 ## Education
-**M.Sc. Computer Science(https://qau.edu.pk)**                                                                                            
-       **Quaid-i-Azam University, Islamabad**                                                                                               
+**[Quaid-i-Azam University, Islamabad](https://qau.edu.pk)**                                                                                
+       **M.Sc. Computer Science**                                                                                               
              **_Sep/2011 - Oct/2014_**
 
 
